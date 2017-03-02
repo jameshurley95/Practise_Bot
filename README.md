@@ -1,2 +1,0 @@
-# FactBot
-ChatBot
